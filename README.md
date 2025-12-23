@@ -27,7 +27,7 @@ unzip cd_pwd_challenge.zip
 
 # Suggestions
 
-To play this game, you should be familiar with the XX, XXX, XX, and XXXXX commands.
+To play this game, you should be familiar with the cd, pwd, ls and cat commands.
 If you need a refresher, you can watch the tutorial videos for each command on my Shell Yeah YouTube channel.
 https://www.youtube.com/@shell.yeah.channel
 
