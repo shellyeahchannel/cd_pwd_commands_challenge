@@ -1,3 +1,6 @@
+## [Download the Zip File Here]
+https://github.com/shellyeahchannel/cd_pwd_commands_challenge/releases/download/v1.0.0/cd_pwd_challenge.zip
+
 # Summary
 
 This is a mini terminal game so you can practice with shell commands, mostly with the cd and pwd commands.
